@@ -5477,7 +5477,7 @@
       "Так.",
       "Ні."
     ],
-    "image": "images/sec10_q26.jpeg",
+    "image": null,
     "correctOptionIndex": 0
   },
   {
@@ -7569,7 +7569,7 @@
       "Якщо на зустрічній смузі немає транспортних засобів.",
       "Обгін на перехресті заборонено."
     ],
-    "image": "images/sec14_q52.jpeg",
+    "image": null,
     "correctOptionIndex": 2
   },
   {
@@ -8703,7 +8703,7 @@
       "Дозволено.",
       "Заборонено."
     ],
-    "image": "images/sec15_q54.jpeg",
+    "image": null,
     "correctOptionIndex": 0
   },
   {
@@ -9581,7 +9581,7 @@
       "Після чорного і білого автомобілів.",
       "Після чорного, білого і синього автомобілів."
     ],
-    "image": null,
+    "image": "images/sec15_p175_2.jpeg",
     "correctOptionIndex": 1
   },
   {
@@ -10463,7 +10463,7 @@
       "Червоний, зелений, синій автомобілі.",
       "Синій, зелений, червоний автомобілі."
     ],
-    "image": "images/sec15_p198_0.jpeg",
+    "image": "images/sec15_p198_2.jpeg",
     "correctOptionIndex": 2
   },
   {
@@ -24272,6 +24272,19 @@
     ],
     "image": "images/sec45_q27.jpeg",
     "correctOptionIndex": 1
+  },
+  {
+    "id": "45.28",
+    "section": "45. ДОДАТКОВІ ПИТАННЯ",
+    "questionNumber": 28,
+    "question": "Наведений індикатор червоного кольору може інформувати водія про:",
+    "options": [
+      "Перегрів двигуна.",
+      "Низький рівень гальмової рідини.",
+      "Низький рівень палива у паливному баку."
+    ],
+    "image": "images/sec45_q28.jpeg",
+    "correctOptionIndex": 0
   },
   {
     "id": "45.29",
